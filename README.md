@@ -48,7 +48,7 @@ Sitio web corporativo e informativo destacando la producción agrícola.
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Katzee03&show_icons=true&theme=radical" alt="Estadísticas de Kevin" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Katzee03&show_icons=true&theme=radical&v=1" alt="Estadísticas de Kevin" />
 </p>
 
 ---
