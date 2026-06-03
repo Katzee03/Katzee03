@@ -49,7 +49,7 @@ Sitio web corporativo e informativo destacando la producción agrícola.
 
 <p align="center">
   <a href="https://github.com/Katzee03">
-    <img src="https://github-readme-stats.vercel.app/api?username=Katzee03&show_icons=true&theme=radical&v=2" alt="Estadísticas de Kevin" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Katzee03&theme=radical&hide_border=true" alt="Racha de GitHub" />
   </a>
 </p>
 
